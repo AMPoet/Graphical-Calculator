@@ -38,3 +38,5 @@ This Python script implements a basic calculator with a graphical user interface
 
 ### Creator:
 [Amir Mohammad Rahimy]
+
+#python #calculator #graphical_calculator
